@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Welcome to Rusty Rhino!
 
-Things you may want to cover:
+Created Summer 2019 by David Larson
 
-* Ruby version
+Created with Ruby v. 2.6.0
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+More instructions to come with implementation...
